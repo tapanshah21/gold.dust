@@ -13,3 +13,6 @@ little bits of gold dust that I find on the internet
 
 # Servant Leadership in Software Development
 `https://adl.io/essays/why-software-development-requires-servant-leaders/#`
+
+# Riskstorming
+`https://isleoftesting.com/portfolio/riskstorming-brand-your-strategy/`
