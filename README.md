@@ -16,3 +16,6 @@ little bits of gold dust that I find on the internet
 
 # Riskstorming
 `https://isleoftesting.com/portfolio/riskstorming-brand-your-strategy/`
+
+# Observability
+`https://www.slideshare.net/CharityMajors/chaos-engineering-without-observability-is-just-chaos`
