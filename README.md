@@ -19,3 +19,9 @@ little bits of gold dust that I find on the internet
 
 # Observability
 `https://www.slideshare.net/CharityMajors/chaos-engineering-without-observability-is-just-chaos`
+
+# Remote jobs
+`https://docs.google.com/spreadsheets/d/1Sr0vy3eDn2fcEhxOdkPv0BjsWBR7JntDJqRM6_hyjbE/edit#gid=0`
+`https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369`
+`https://remote.co/remote-jobs/qa/`
+`https://remoteok.io/remote-jobs`
